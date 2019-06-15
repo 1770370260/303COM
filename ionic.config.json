@@ -1,0 +1,7 @@
+{
+  "name": "ionic303COM",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
